@@ -1,5 +1,7 @@
 # LocalAuth
 
+![LocalAuth — home, fingerprint and L emblem](assets/branding/readme-header.png)
+
 A fingerprint-first Android TOTP authenticator with your own Rust home backup server. No service accounts, subscriptions, telemetry or cloud integration. Android and the localhost dashboard share navy surfaces, mint accents, rounded cards and restrained animations.
 
 **Version 4.0 is a development preview. Builds and automated tests pass, but native hardware HMAC, fingerprint and recovery flows have not been tested on a real phone. Use disposable accounts until the device checklist passes. Root-proof security and detection of every compromised device are not claimed.**
